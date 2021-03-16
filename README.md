@@ -11,7 +11,7 @@ Top 5 New Desirable Functionalities:
 3.	Self-Assessment to find out if COVID test is needed
 4.	Symptom history 
 5.	Guides including prevention methods
-![image](https://user-images.githubusercontent.com/54964533/111386019-ff79af00-8681-11eb-8b28-fd628c48a332.png)
+
 
 
 
