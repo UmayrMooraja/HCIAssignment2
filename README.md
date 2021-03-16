@@ -5,4 +5,15 @@ This is a COVID-19 app focuses towards the elderly who are in need of assistance
 ![image](https://user-images.githubusercontent.com/54964533/111385506-49ae6080-8681-11eb-935e-12a1517f86c7.png)
 ![image](https://user-images.githubusercontent.com/54964533/111385488-43b87f80-8681-11eb-9fb3-d7c64d9c35cf.png)
 
+Top 5 New Desirable Functionalities:
+1.	Helping seniors find help
+2.	Chat and Video chat for communication between seniors and volunteers
+3.	Self-Assessment to find out if COVID test is needed
+4.	Symptom history 
+5.	Guides including prevention methods
+![image](https://user-images.githubusercontent.com/54964533/111386019-ff79af00-8681-11eb-8b28-fd628c48a332.png)
+
+
+
 Figma URL: https://www.figma.com/file/tCsSv5epH6PtCJLCOL9qwU/CovidAppA2?node-id=0%3A1![image](https://user-images.githubusercontent.com/54964533/111385398-1c61b280-8681-11eb-8947-b319bdfbede5.png)
+
